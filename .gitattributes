@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=lf
+
+# JS files must always use LF for tools to work
+*.js eol=lf
+
+*.ts eol=lf
+*.tsx eol=lf
+
+
+* linguist-language=js
