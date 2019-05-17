@@ -26,5 +26,11 @@ $ git push # 同步到远程仓库
 
 ```
 
-## 测试文字
-测试文字
+
+## Merge
+
+```bash
+# 不采用快速合并策略
+$ git merge --no-ff dev # git merge --no-ff <branchname>
+
+```
