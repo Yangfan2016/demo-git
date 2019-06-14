@@ -34,3 +34,5 @@ $ git push # 同步到远程仓库
 $ git merge --no-ff dev # git merge --no-ff <branchname>
 
 ```
+
+### chen test
