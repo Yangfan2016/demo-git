@@ -4,7 +4,7 @@ This is a demo for git test
 
 ## Attention
 
-注意不要修改 master 上的任何内容，请 获取 dev 分支上的内容，然后在本地新建自己的分支，修改的内容在合并到 dev 分支上
+注意不要修改 master（已受保护） 上的任何内容，请 获取 dev 分支上的内容，然后在本地新建自己的分支，修改的内容在合并到 dev 分支上
 
 ## Dev
 
