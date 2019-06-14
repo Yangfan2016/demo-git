@@ -36,3 +36,5 @@ $ git merge --no-ff dev # git merge --no-ff <branchname>
 ```
 
 ### chen test
+- 1
+- 2
